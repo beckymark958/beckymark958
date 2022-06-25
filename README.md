@@ -3,7 +3,6 @@
 - 🌱 I’m currently a graduate student at Carnegie Mellon University major in Information Systems Management.
 - 📫 Feel free to reach out to me: wyu2@andrew.cmu.edu 
 
-
 ### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beckymark958&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
