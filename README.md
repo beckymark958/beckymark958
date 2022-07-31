@@ -1,7 +1,8 @@
 ### 👋 Hi, I’m Becky!
 - 👀 I’m interested in Software Development and Data Science.
 - 🌱 I’m currently a graduate student at Carnegie Mellon University major in Information Systems Management.
-- 📫 Feel free to reach out to me: wyu2@andrew.cmu.edu 
+- 📫 Feel free to reach out to me: wyu2@andrew.cmu.edu
+- ✨ Check out my personal website: [https://www.beckyyu.com](https://www.beckyyu.com)
 
 ### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beckymark958&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
