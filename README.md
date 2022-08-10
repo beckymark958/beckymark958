@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Becky!
+### 👋 Hi, I’m Becky! ![](https://komarev.com/ghpvc/?username=beckymark958&color=green)
 - 👀 I’m interested in Software Development and Data Science.
 - 🌱 I’m currently a graduate student at Carnegie Mellon University major in Information Systems Management.
 - 📫 Feel free to reach out to me: wyu2@andrew.cmu.edu
