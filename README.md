@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=beckymark958&color=blue)
-### 👋 Hi, I’m Becky!
+### 👋 Hi, I’m Becky(余宛儒)! 
 - 👀 I’m interested in Software Development and Data Science.
 - 🌱 I’m currently a graduate student at Carnegie Mellon University major in Information Systems Management.
 - 📫 Feel free to reach out to me: email@beckyyu.com
