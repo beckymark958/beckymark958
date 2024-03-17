@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=beckymark958&color=blue)
 ### 👋 Hi, I’m Becky(余宛儒)! 
 - 👀 I’m interested in Software Development and Data Science.
-- 🌱 I’m currently a graduate student at Carnegie Mellon University major in Information Systems Management.
+- 🌱 I’m currently a graduate student at Carnegie Mellon University majored in Information Systems Management.
 - 📫 Feel free to reach out to me: email@beckyyu.com
 - ✨ Check out my personal website: [https://www.beckyyu.com](https://www.beckyyu.com)
-
+<!---
 ### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beckymark958&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beckymark958&theme=tokyonight&langs_count=8&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
